@@ -33,6 +33,9 @@ Windows:
   You can install git by running the following command in Powershell:
     "winget install Git.Git"
   
+  -Update your paths to include gcc10. If you are using Powershell you can use the following command: 
+    "$env:PATH += ";<pathTogcc>"
+  
   
   -Install the library onto your machine by running the following command prompt
     "git clone <URL>"
