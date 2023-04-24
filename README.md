@@ -21,7 +21,7 @@ Linux:
     
   
   -Install the library onto your machine by running the following command:
-    "git clone <URL>"
+    "git clone https://github.com/Honarl/CS370Simplicity"
   
   
   -You can also download the repository directly from GitHub without requiring a clone
@@ -34,11 +34,11 @@ Windows:
     "winget install Git.Git"
   
   -Update your paths to include gcc10. If you are using Powershell you can use the following command: 
-    "$env:PATH += ";<pathTogcc>"
+    "$env:PATH += ";pathTogcc"
   
   
   -Install the library onto your machine by running the following command prompt
-    "git clone <URL>"
+    "git clone https://github.com/Honarl/CS370Simplicity"
   
   
   -You can also download the repository directly from GitHub without requiring a clone
@@ -53,7 +53,7 @@ Mac:
   
   
   -Install the library onto your machine by running the following command prompt
-    "git clone <URL>"
+    "git clone https://github.com/Honarl/CS370Simplicity"
   
   
   -You can also download the repository directly from GitHub without requiring a clone
